@@ -1,0 +1,51 @@
+import Vue from 'vue'
+import {
+	Button,
+	Row,
+	Col,
+	Menu,
+	MenuItem,
+	Submenu,
+	Avatar,
+	Input,
+	Tabs,
+	TabPane,
+	Checkbox,
+	Popover,
+	Dialog,
+	Dropdown,
+	DropdownMenu,
+	Radio,
+	Image,
+	Popconfirm,
+	Backtop,
+	Upload,
+	Form,
+	FormItem,
+	RadioGroup,
+	Cascader,
+} from 'element-ui'
+Vue.use(Button)
+Vue.use(Row)
+Vue.use(Col)
+Vue.use(Menu)
+Vue.use(MenuItem)
+Vue.use(Submenu)
+Vue.use(Avatar)
+Vue.use(Input)
+Vue.use(Tabs)
+Vue.use(TabPane)
+Vue.use(Checkbox)
+Vue.use(Popover)
+Vue.use(Dialog)
+Vue.use(Dropdown)
+Vue.use(DropdownMenu)
+Vue.use(Radio)
+Vue.use(Image)
+Vue.use(Popconfirm)
+Vue.use(Backtop)
+Vue.use(Upload)
+Vue.use(Form)
+Vue.use(FormItem)
+Vue.use(RadioGroup)
+Vue.use(Cascader)
